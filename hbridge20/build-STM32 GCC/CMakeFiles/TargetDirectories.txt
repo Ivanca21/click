@@ -1,6 +1,0 @@
-C:/Users/MilanIvancic/Desktop/click_repository/click_repository/clicks/hbridge20/build-STM32 GCC/CMakeFiles/example_hbridge20.dir
-C:/Users/MilanIvancic/Desktop/click_repository/click_repository/clicks/hbridge20/build-STM32 GCC/CMakeFiles/edit_cache.dir
-C:/Users/MilanIvancic/Desktop/click_repository/click_repository/clicks/hbridge20/build-STM32 GCC/CMakeFiles/rebuild_cache.dir
-C:/Users/MilanIvancic/Desktop/click_repository/click_repository/clicks/hbridge20/build-STM32 GCC/lib_hbridge20/CMakeFiles/lib_hbridge20.dir
-C:/Users/MilanIvancic/Desktop/click_repository/click_repository/clicks/hbridge20/build-STM32 GCC/lib_hbridge20/CMakeFiles/edit_cache.dir
-C:/Users/MilanIvancic/Desktop/click_repository/click_repository/clicks/hbridge20/build-STM32 GCC/lib_hbridge20/CMakeFiles/rebuild_cache.dir
