@@ -1,0 +1,22 @@
+{
+    "display_name": "H-Bridge 20 Click",
+    "name": "mikroe.click.hbridge20",
+    "type": "click",
+    "version": "2.2.0",
+    "pid": "MIKROE-7022",
+    "package_changed": true,
+    "contents": {
+        "examples": [
+            {
+                "path": "H-Bridge 20 Click/examples/example"
+            }
+        ],
+        "libraries": [
+            {
+                "alias": "Click.HBridge20",
+                "subdir_name": "lib_hbridge20",
+                "path": "H-Bridge 20 Click/data/lib_hbridge20"
+            }
+        ]
+    }
+}
